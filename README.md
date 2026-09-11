@@ -16,7 +16,7 @@ Watch an ecosystem in motion on a small, remote island.
 _Disclaimer of a known bug that the animal AI breaks after a few minutes of gameplay!_
 
 ## Showcase
-<img width="460" height="300" alt="Necosystem showcase" src="https://github.com/user-attachments/assets/8f52018a-289e-4f69-86ae-2a981229eb35" />
+<img width="600" height="400" alt="Necosystem showcase" src="https://github.com/user-attachments/assets/8f52018a-289e-4f69-86ae-2a981229eb35" />
 
 Game is published at https://rnicko.itch.io/necosystem
 
